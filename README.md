@@ -85,14 +85,6 @@ The website combines:
 
 The goal was to make the portfolio feel more like a small world to explore rather than a conventional resume website.
 
-## 🔗 Links
-
-**GitHub:**
-https://github.com/krishikamittal
-
-**LinkedIn:**
-[Add LinkedIn profile link]
-
 ## 📱 Responsiveness
 
 The interface is designed to adapt to desktop and smaller screen sizes while preserving the main interactive experience.
